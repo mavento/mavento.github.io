@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mavento.github.io"
 twitter_username:
 github_username:  mavento
+excerpt_separator: "<!--excerpt-->"
 
 # Build settings
 markdown: kramdown
