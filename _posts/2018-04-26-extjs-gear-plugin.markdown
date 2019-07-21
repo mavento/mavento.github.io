@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "ExtJS Plugin Beispiel"
-date:   2018-04-26 09:00:00 +0100
-categories: javascript ExtJS````
+title: ExtJS Gear Plugin
+date: 2018-04-26 13:32:20 +0300
+description: ExtJS Gear Plugin
+img: gear.jpg
+fig-caption: # Add figcaption (optional)
+tags: [ExtJS]
 ---
 Plugins in Ext JS werden verwendet, um  UI Komponenten neue benutzerdefinierte Funktionen hinzuzuf&uuml;gen.
 Das Beispiel zeigt ein Plugin, welches einen zus&auml;tzlichen Container an ein Panel andockt.
@@ -82,7 +85,4 @@ f&uuml;gt ein Gear Symbol zur Titelzeile hinzu, &uuml;ber welches der Container 
 ## Beispiel
 
 [Gear Plugin](https://fiddle.sencha.com/#view/editor&fiddle/2fe0 "Sencha Fiddle")
-
-
-
 

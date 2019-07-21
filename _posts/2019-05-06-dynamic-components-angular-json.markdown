@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Dynamic Angular Components from Json"
-date:   2019-05-26 09:00:00 +0100
-categories: Angular````
+title: Dynamic Angular Components from Json
+date: 2019-05-07 13:32:20 +0300
+description: Dynamic Angular Components from Json
+img: dynamic_components.jpg
+fig-caption: # Add figcaption (optional)
+tags: [Angular]
 ---
 Loading components from JSON and add them dynamically into the dom. 
 
@@ -63,8 +66,4 @@ Every dynamic created component must be registered within the entryComponents se
 ```
  entryComponents: [SimpleComponent, FeatureComponent, UnrecognizedComponent, WidgetComponent],
 ```
-
-
-
-
 
