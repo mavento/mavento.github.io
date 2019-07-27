@@ -3,7 +3,7 @@ layout: post
 title: Mat Icon does not center in its div
 date: 2019-07-26 16:52:20 +0300
 description: Mat Icon does not center in its div
-img: mat-icon-not-centered.png
+img: mat-icon-not-centered.jpg
 fig-caption: # Add figcaption (optional)
 tags: [Angular]
 ---
