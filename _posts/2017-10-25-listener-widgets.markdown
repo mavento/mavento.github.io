@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Change Listener for widgets
+title: Change listener for widgets in extjs 
 date: 2017-10-25 13:32:20 +0300
-description: Change Listener for widgets
+description: Change listener for widgets in extjs
 img: extjsapp.jpg
 fig-caption: # Add figcaption (optional)
-tags: [Angular]
+tags: [ExtJS]
 ---
 If you add a change listener the following way, its executed for every widget on store load:
 ```javascript
